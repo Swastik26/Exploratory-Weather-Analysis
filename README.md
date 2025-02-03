@@ -56,7 +56,7 @@ I was responsible for:
 ## Conclusion 🎯
 This EDA highlighted key patterns in the weather dataset 🌡️, including relationships between temperature and humidity, seasonal variations, and the distribution of extreme weather events ⚡. This analysis forms a strong base for predictive modeling and further climate studies 🌍.
 
-## Contact Me 📬
+## Feel Free To Reach Out  📬
 Feel free to reach out if you have any questions, suggestions, or need help with similar projects! I’m happy to connect and assist:
 - **Email**: [swastikchattopadhyay.2024@gmail.com](mailto:swastikchattopadhyay.2024@gmail.com) 📧
 - **Twitter**: [SWASTIKCHA43552](https://x.com/SWASTIKCHA43552) 💻
